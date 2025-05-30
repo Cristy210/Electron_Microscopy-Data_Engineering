@@ -1,0 +1,10 @@
+Scale,@type,data_encoding,hash,minishard_bits,minishard_index_encoding,preshift_bits,shard_bits
+0,neuroglancer_uint64_sharded_v1,gzip,identity,6,gzip,9,15
+1,neuroglancer_uint64_sharded_v1,gzip,identity,6,gzip,9,12
+2,neuroglancer_uint64_sharded_v1,gzip,identity,6,gzip,9,9
+3,neuroglancer_uint64_sharded_v1,gzip,identity,6,gzip,9,6
+4,neuroglancer_uint64_sharded_v1,gzip,identity,6,gzip,9,3
+5,neuroglancer_uint64_sharded_v1,gzip,identity,6,gzip,9,0
+6,neuroglancer_uint64_sharded_v1,gzip,identity,3,gzip,9,0
+7,neuroglancer_uint64_sharded_v1,gzip,identity,0,gzip,9,0
+8,neuroglancer_uint64_sharded_v1,gzip,identity,0,gzip,6,0

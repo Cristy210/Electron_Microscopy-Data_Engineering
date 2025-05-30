@@ -1,0 +1,8 @@
+Field,Value
+@type,neuroglancer_multiscale_volume
+data_type,uint64
+num_channels,1
+type,segmentation
+mesh,mesh
+segment_name_map,names
+segment_properties,segment_properties
