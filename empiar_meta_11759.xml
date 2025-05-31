@@ -1,0 +1,80 @@
+<entry xmlns="http://pdbe.org/empiar" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ftp.ebi.ac.uk/pub/databases/emtest/empiar/schema/empiar.xsd" accessionCode="EMPIAR-11759" schemaVersion="0.64" public="true">
+    <admin>
+        <currentStatus>REL</currentStatus>
+        <keyDates>
+            <depositionDate>2023-11-01</depositionDate>
+            <releaseDate>2024-01-15</releaseDate>
+            <updateDate>2024-01-15</updateDate>
+        </keyDates>
+        <title>Developing retina in zebrafish 55 hpf larval eye.</title>
+        <correspondingAuthor private="true">
+            <firstName>Michaela</firstName>
+            <lastName>Wilsch-Bräuninger</lastName>
+            <organization type="academic">Max Planck Institute of Molecular Cell Biology and Genetics</organization>
+            <townOrCity>Dresden</townOrCity>
+            <country>Germany</country>
+            <postOrZipCode>01307</postOrZipCode>
+        </correspondingAuthor>
+        <principalInvestigator private="true">
+            <firstName>Michaela</firstName>
+            <lastName>Wilsch-Bräuninger</lastName>
+            <organization type="academic">Max Planck Institute of Molecular Cell Biology and Genetics</organization>
+            <townOrCity>Dresden</townOrCity>
+            <country>Germany</country>
+            <postOrZipCode>01307</postOrZipCode>
+        </principalInvestigator>
+        <authorsList>
+            <author>Wilsch-Bräuninger M</author>
+        </authorsList>
+        <grantSupport>
+            <grantReference>
+                <fundingBody></fundingBody>
+                <code></code>
+                <country></country>
+            </grantReference>
+        </grantSupport>
+        <datasetSize units="GB">1.2</datasetSize>
+        <entryDOI>10.6019/EMPIAR-11759</entryDOI>
+        <experimentType>SBF-SEM</experimentType>
+        <scale>tissue</scale>
+    </admin>
+    <crossReferences>
+        <citationList>
+            <universalCitation>
+                <nonJournalCitation published="false">
+                    <author order="1">Wilsch-Bräuninger M</author>
+                    <bookTitle>Developing retina in zebrafish 55 hpf larval eye.</bookTitle>
+                    <publisher></publisher>
+                    <publicationLocation></publicationLocation>
+                    <country></country>
+                </nonJournalCitation>
+            </universalCitation>
+        </citationList>
+    </crossReferences>
+    <imageSet>
+        <name>Developing retina in zebrafish 55 hpf larval eye.</name>
+        <directory>/data</directory>
+        <category>reconstructed volumes</category>
+        <headerFormat>DM3</headerFormat>
+        <dataFormat>DM3</dataFormat>
+        <numImagesOrTiltSeries>16</numImagesOrTiltSeries>
+        <framesPerImage>1</framesPerImage>
+        <voxelType>UNSIGNED BYTE</voxelType>
+        <dimensions>
+            <imageWidth>5628</imageWidth>
+            <pixelWidth>80.0</pixelWidth>
+            <imageHeight>5632</imageHeight>
+            <pixelHeight>80.0</pixelHeight>
+        </dimensions>
+        <details>Developing retina in zebrafish 55 hpf larval eye. 
+It is a SBF-SEM data set. 
+The resolution is 8nm/px in xy and 50nm per section (z). 
+
+If this is also where to enter, the acquisition conditions on the FEI Magellan400 SEM were 1.9kV accelerating voltage and 200pA current at 0.5 usec dwell time. 
+The microtome unit of the SBF-SEM is called Gatan 3ViewXP.</details>
+        <segmentationList/>
+        <micrographsFilePattern></micrographsFilePattern>
+        <pickedParticlesFilePattern></pickedParticlesFilePattern>
+        <pickedParticlesDirectory></pickedParticlesDirectory>
+    </imageSet>
+</entry>

@@ -1,0 +1,64 @@
+Field,value
+id,9846137
+meta.imageName,Figure_S3B_FIB-SEM_U2OS_20x20x20nm_xy.tif
+meta.imageDescription,
+meta.imageAuthor,Public data
+meta.projectName,idr0086-miron-micrographs/experimentD
+meta.projectId,1161
+meta.projectDescription,"Publication Title
+Chromatin arranges in chains of mesoscale domains with nanoscale functional topography independent of cohesin
+
+Experiment Description
+Electron Micrographs of the nucleus"
+meta.datasetName,U2OS_chromatin
+meta.datasetId,10740
+meta.datasetDescription,
+meta.wellSampleId,
+meta.wellId,
+meta.imageTimestamp,1594981020.0
+meta.imageId,9846137
+meta.pixelsType,uint8
+perms.canAnnotate,False
+perms.canEdit,False
+perms.canDelete,False
+perms.canLink,False
+tiles,False
+interpolate,True
+size.width,1121
+size.height,775
+size.z,184
+size.t,1
+size.c,1
+pixel_size.x,0.02
+pixel_size.y,0.02
+pixel_size.z,0.02
+init_zoom,0
+pixel_range[0],0
+pixel_range[1],255
+channels[0].emissionWave,
+channels[0].label,0
+channels[0].color,808080
+channels[0].inverted,False
+channels[0].reverseIntensity,False
+channels[0].family,linear
+channels[0].coefficient,1.0
+channels[0].window.min,0.0
+channels[0].window.max,182.0
+channels[0].window.start,0.0
+channels[0].window.end,182.0
+channels[0].active,True
+split_channel.g.width,1125
+split_channel.g.height,779
+split_channel.g.border,2
+split_channel.g.gridx,1
+split_channel.g.gridy,1
+split_channel.c.width,2248
+split_channel.c.height,779
+split_channel.c.border,2
+split_channel.c.gridx,2
+split_channel.c.gridy,1
+rdefs.model,greyscale
+rdefs.projection,normal
+rdefs.defaultZ,92
+rdefs.defaultT,0
+rdefs.invertAxis,False
