@@ -19,16 +19,15 @@ For detailed documentation, methods, and metadata fields for each dataset, see t
   See [Open_Organelle/README.md](Open_Organelle/).
 
 - **[Neuroglancer Hemibrain](https://tinyurl.com/hemibrain-ng):**  
-  See [Neuroglancer/README.md](Neuroglancer/README.md).
-
+  See [Neuroglancer/README.md](Neuroglancer/)
 - **[IDR 9846137](https://idr.openmicroscopy.org/webclient/img_detail/9846137/?dataset=10740):**  
-  See [IDR/README.md](IDR/README.md).
+  See [IDR/README.md](IDR/).
 
 - **[EMPIAR 11759](https://www.ebi.ac.uk/empiar/EMPIAR-11759/):**  
-  See [EMPIAR/README.md](EMPIAR/README.md) for dataset information.
+  See [EMPIAR/README.md](EMPIAR/) for dataset information.
 
 - **[EPFL Electron Microscopy](https://www.epfl.ch/labs/cvlab/data/data-em/):**  
-  See [EPFL/README.md](EPFL/README.md).
+  See [EPFL/README.md](EPFL/).
 
 ---
 
