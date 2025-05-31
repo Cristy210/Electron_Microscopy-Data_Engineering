@@ -16,7 +16,7 @@ This repository documents a series of data engineering tasks focused on several 
 For detailed documentation, methods, and metadata fields for each dataset, see the README file in the respective folder.
 
 - **[OpenOrganelle (jrc_mus-nacc-2)](https://openorganelle.janelia.org/datasets/jrc_mus-nacc-2):**  
-  See [Open_Organelle/README.md](Open_Organelle/README.md).
+  See [Open_Organelle/README.md](Open_Organelle/).
 
 - **[Neuroglancer Hemibrain](https://tinyurl.com/hemibrain-ng):**  
   See [Neuroglancer/README.md](Neuroglancer/README.md).
