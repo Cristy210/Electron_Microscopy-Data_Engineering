@@ -1,6 +1,6 @@
-<h1 align="center">EPFL – Mouse Brain EM Dataset </h1>
+<h1 align="center">EPFL – CA1 Hippocampus Region </h1>
 
-This folder documents the hippocampus EM dataset made available by EPFL CVLAB. The dataset consists of a large-scale 3D electron microscopy (EM) image stack, acquired from a 5x5x5 µm section of the CA1 hippocampus region in a mouse brain. The volume is 1065×2048×1536, with each voxel approximately 5×5×5 nm.
+This folder documents the hippocampus EM dataset made available by EPFL CVLAB. The dataset consists of a large-scale 3D electron microscopy (EM) image stack, acquired from a 5x5x5 µm section of the CA1 hippocampus region of the brain. The volume is 1065×2048×1536, with each voxel approximately 5×5×5 nm.
 
 ## Dataset Overview
 
