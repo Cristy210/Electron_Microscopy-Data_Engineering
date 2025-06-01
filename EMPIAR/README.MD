@@ -7,6 +7,7 @@ This folder documents the EMPIAR-11759 dataset, which contains reconstructed vol
 - **Source:** [EMPIAR](https://www.ebi.ac.uk/empiar/EMPIAR-11759/)
 - **Sample:** Zebrafish 55 hpf larval eye
 - **Experiment Type:** SBF-SEM
+- **Data Format:** DM3
 
 ## Metadata
 
