@@ -5,7 +5,7 @@ This folder documents the hippocampus EM dataset made available by EPFL CVLAB. T
 ## Dataset Overview
 
 - **Source:** [EPFL _ EM Dataset](https://documents.epfl.ch/groups/c/cv/cvlab-unit/www/data/%20ElectronMicroscopy_Hippocampus/volumedata.tif)
-- **Sample:** CA1 hippocampus region, mouse brain.
+- **Sample:** CA1 hippocampus region of the brain.
 - **Data Format:** Multi-page TIF File
 
 ### Metadata: Page 0 of 1065 Multi-page TIF File
