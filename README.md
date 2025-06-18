@@ -23,7 +23,7 @@ For detailed documentation, methods, and metadata fields for each dataset, see t
 - **[IDR 9846137](https://idr.openmicroscopy.org/webclient/img_detail/9846137/?dataset=10740):**  
   See [IDR/README.md](IDR/).
 
-- **[EMPIAR 11759](https://www.ebi.ac.uk/empiar/EMPIAR-11759/):**  
+- **[Zebrafish - EMPIAR 11759](https://www.ebi.ac.uk/empiar/EMPIAR-11759/):**  
   See [EMPIAR/README.md](EMPIAR/) for dataset information.
 
 - **[EPFL Electron Microscopy](https://www.epfl.ch/labs/cvlab/data/data-em/):**  
